@@ -8,4 +8,7 @@
     - [x] Trabalhando com Stubs
     - [x] Trabalhando com Spies
     - [x] Trabalhando com testes end-to-end e Code Coverage
-    - [ ] Sobre Test Driven Development e Behaviour Driven Development
+    - [x] Sobre Test Driven Development e Behaviour Driven Development
+    - [x] Projeto final - TDD & BDD - Parte 01
+    - [ ] Projeto final - TDD & BDD - Parte 02
+    - [ ] Projeto final - TDD & BDD - Parte 03
