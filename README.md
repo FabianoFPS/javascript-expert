@@ -11,8 +11,14 @@
     - [x] Sobre Test Driven Development e Behaviour Driven Development
     - [x] Projeto final - TDD & BDD - Parte 01
     - [x] Projeto final - TDD & BDD - Parte 02
-    - [ ] Projeto final - TDD & BDD - Parte 03
+    - [x] Projeto final - TDD & BDD - Parte 03
+    - [ ] Desafio
 3. Conceitos fundamentais sobre o ciclo de vida do Javascript Parte 01
+    - [ ] Javascript Strict Mode
+    - [ ] Call Stack e Memory Heap
+    - [ ] Tipo de Valor vs Tipo de Referência (Immutability vs Mutability)
+    - [ ] Coerção de Tipos &amp; Objects lifecycle: toString, valueOf e Symbol.toPrimitive
+    - [ ] Prototype Chain -  Herança em Javascript
 4. Conceitos fundamentais sobre o ciclo de vida do Javascript - Parte 02
 5. Advanced Javascript Data Types
 6. Expressões Regulares - RegExp
