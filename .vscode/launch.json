@@ -1,0 +1,26 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Desafio javascript-testing",
+      "env": {
+        "NODE_ENV": "test"
+      },
+      "program": "${workspaceFolder}/javascript-testing/desafio/node_modules/mocha/bin/_mocha",
+      "args": [
+       "-w",
+       "--parallel",
+        "${workspaceFolder}/javascript-testing/desafio/test/e2e/*.test.js",
+      ],
+      "internalConsoleOptions": "openOnSessionStart",
+      "skipFiles": [
+        "<node_internals>/**"
+      ]
+    }
+  ]
+}
