@@ -20,6 +20,11 @@
     - [x] Coerção de Tipos &amp; Objects lifecycle: toString, valueOf e Symbol.toPrimitive
     - [x] Prototype Chain -  Herança em Javascript
 4. Conceitos fundamentais sobre o ciclo de vida do Javascript - Parte 02
+    - [x] Introdução ao capítulo
+    - [x] Function: arguments, this, bind vs call vs apply
+    - [x] Projeto Parte 01 - Estrutura Inicial e Internacionalização de dados
+    - [x] Projeto Parte 02 - Refatoração do Projeto e core do Sistema.
+    - [ ] Projeto Parte 03 - Como testar, Armazenamento de dados e Atualização de tabela
 5. Advanced Javascript Data Types
 6. Expressões Regulares - RegExp
 7. Design Patterns PT 01 - Best Practices and Creational Design Patterns
