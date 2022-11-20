@@ -2,8 +2,7 @@
 
 ## Modulos
 
-1. Introdução ao curso
-2. Javascript testing
+1. Javascript testing
     - [x] Trabalhando com Mocks
     - [x] Trabalhando com Stubs
     - [x] Trabalhando com Spies
@@ -13,28 +12,33 @@
     - [x] Projeto final - TDD & BDD - Parte 02
     - [x] Projeto final - TDD & BDD - Parte 03
     - [x] Desafio
-3. Conceitos fundamentais sobre o ciclo de vida do Javascript Parte 01
+2. Conceitos fundamentais sobre o ciclo de vida do Javascript Parte 01
     - [x] Javascript Strict Mode
     - [x] Call Stack e Memory Heap
     - [x] Tipo de Valor vs Tipo de Referência (Immutability vs Mutability)
     - [x] Coerção de Tipos &amp; Objects lifecycle: toString, valueOf e Symbol.toPrimitive
     - [x] Prototype Chain -  Herança em Javascript
-4. Conceitos fundamentais sobre o ciclo de vida do Javascript - Parte 02
-    - [x] Introdução ao capítulo
+3. Conceitos fundamentais sobre o ciclo de vida do Javascript - Parte 02
     - [x] Function: arguments, this, bind vs call vs apply
     - [x] Projeto Parte 01 - Estrutura Inicial e Internacionalização de dados
     - [x] Projeto Parte 02 - Refatoração do Projeto e core do Sistema.
-    - [ ] Projeto Parte 03 - Como testar, Armazenamento de dados e Atualização de tabela
-5. Advanced Javascript Data Types
-6. Expressões Regulares - RegExp
-7. Design Patterns PT 01 - Best Practices and Creational Design Patterns
-8. Design Patterns PT 02 - Behavioural and Structural Design Patterns
-9. Node Package Manager (NPM)
-10. Node.js Command Line Interface (CLI)
-11. Node.js Streams
-12. Error Handling
-13. Performance 
-14. Node.js long-running processing
-15. Javascript Security
-16. Considerações finais e próximos passos
-17. Extras:
+    - [x] Projeto Parte 03 - Como testar, Armazenamento de dados e Atualização de tabela
+4. Advanced Javascript Data Types
+    - [ ] Generators, Iterators e Async Iterators
+    - [ ] O tipo Symbol - Symbol.toPrimitive, Symbol.toStringTag, Symbol.iterator e Symbol.asyncIterator
+    - [ ] Map e WeakMap
+    - [ ] Set e WeakSet
+    - [ ] Reflect
+    - [ ] Proxy e Node.js timers: setInterval, setImmediate, setTimeout e .nextTick()
+5. Expressões Regulares - RegExp
+6. Design Patterns PT 01 - Best Practices and Creational Design Patterns
+7. Design Patterns PT 02 - Behavioural and Structural Design Patterns
+8. Node Package Manager (NPM)
+9. Node.js Command Line Interface (CLI)
+10. Node.js Streams
+11. Error Handling
+12. Performance 
+13. Node.js long-running processing
+14. Javascript Security
+15. Considerações finais e próximos passos
+16. Extras:
