@@ -2,7 +2,7 @@
 
 ## Modulos
 
-1. Javascript testing
+1. [Javascript testing](./01-javascript-testing)
     - [x] Trabalhando com Mocks
     - [x] Trabalhando com Stubs
     - [x] Trabalhando com Spies
