@@ -12,20 +12,20 @@
     - [x] Projeto final - TDD & BDD - Parte 02
     - [x] Projeto final - TDD & BDD - Parte 03
     - [x] Desafio
-2. Conceitos fundamentais sobre o ciclo de vida do Javascript Parte 01
+2. [Conceitos fundamentais sobre o ciclo de vida do Javascript Parte 01](./02-Conceitos-fundamentais-sobre-o-ciclo-de-vida-do-Javascript-Parte-01)
     - [x] Javascript Strict Mode
     - [x] Call Stack e Memory Heap
     - [x] Tipo de Valor vs Tipo de Referência (Immutability vs Mutability)
     - [x] Coerção de Tipos &amp; Objects lifecycle: toString, valueOf e Symbol.toPrimitive
     - [x] Prototype Chain -  Herança em Javascript
-3. Conceitos fundamentais sobre o ciclo de vida do Javascript - Parte 02
+3. [Conceitos fundamentais sobre o ciclo de vida do Javascript - Parte 02](./03-Conceitos-fundamentais-sobre-o-ciclo-de-vida-do-Javascript-Parte-02)
     - [x] Function: arguments, this, bind vs call vs apply
     - [x] Projeto Parte 01 - Estrutura Inicial e Internacionalização de dados
     - [x] Projeto Parte 02 - Refatoração do Projeto e core do Sistema.
     - [x] Projeto Parte 03 - Como testar, Armazenamento de dados e Atualização de tabela
-4. Advanced Javascript Data Types
-    - [ ] Generators, Iterators e Async Iterators
-    - [ ] O tipo Symbol - Symbol.toPrimitive, Symbol.toStringTag, Symbol.iterator e Symbol.asyncIterator
+4. [Advanced Javascript Data Types](./04-Advanced-Javascript-Data-Types/)
+    - [x] Generators, Iterators e Async Iterators
+    - [x] O tipo Symbol - Symbol.toPrimitive, Symbol.toStringTag, Symbol.iterator e Symbol.asyncIterator
     - [ ] Map e WeakMap
     - [ ] Set e WeakSet
     - [ ] Reflect
@@ -41,4 +41,4 @@
 13. Node.js long-running processing
 14. Javascript Security
 15. Considerações finais e próximos passos
-16. Extras:
+16. Extras

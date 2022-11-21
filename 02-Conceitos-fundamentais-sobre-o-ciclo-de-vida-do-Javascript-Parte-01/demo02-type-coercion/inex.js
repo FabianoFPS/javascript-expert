@@ -24,8 +24,8 @@ true + 2
 
 // --------------
 
-console.assert(String(123) === '123', "explicit convertion to string")
-console.assert(123 + '' === '123', "implicit convertion to string")
+console.assert(String(123) === '123', "explicit conversion to string")
+console.assert(123 + '' === '123', "implicit conversion to string")
 
 console.assert(('hello' || 123) === 'hello', "|| returns the first element!")
 console.assert(('hello' && 123) === 123, "&& returns the last element!")
