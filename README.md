@@ -27,7 +27,7 @@
     - [x] Generators, Iterators e Async Iterators
     - [x] O tipo Symbol - Symbol.toPrimitive, Symbol.toStringTag, Symbol.iterator e Symbol.asyncIterator
     - [x] Map e WeakMap
-    - [ ] Set e WeakSet
+    - [x] Set e WeakSet
     - [ ] Reflect
     - [ ] Proxy e Node.js timers: setInterval, setImmediate, setTimeout e .nextTick()
 5. Expressões Regulares - RegExp
