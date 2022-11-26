@@ -26,7 +26,7 @@
 4. [Advanced Javascript Data Types](./04-Advanced-Javascript-Data-Types/)
     - [x] Generators, Iterators e Async Iterators
     - [x] O tipo Symbol - Symbol.toPrimitive, Symbol.toStringTag, Symbol.iterator e Symbol.asyncIterator
-    - [ ] Map e WeakMap
+    - [x] Map e WeakMap
     - [ ] Set e WeakSet
     - [ ] Reflect
     - [ ] Proxy e Node.js timers: setInterval, setImmediate, setTimeout e .nextTick()
