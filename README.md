@@ -31,6 +31,10 @@
     - [x] Reflect
     - [x] Proxy e Node.js timers: setInterval, setImmediate, setTimeout e .nextTick()
 5. Expressões Regulares - RegExp
+    - [x] Usando ReGex para substituição de dados em arquivos no VSCode e terminal
+    - [ ] Sobre o padrão Fluent API, Extração de texto base do PDF e Setup de testes
+    - [ ] Segurança em expressões regulares, Manipulação de erros customizados e Projeto parte 02
+    - [ ] O padrão Facade, Code Coverage e classe customizada de mapeamento de pessoas
 6. Design Patterns PT 01 - Best Practices and Creational Design Patterns
 7. Design Patterns PT 02 - Behavioural and Structural Design Patterns
 8. Node Package Manager (NPM)

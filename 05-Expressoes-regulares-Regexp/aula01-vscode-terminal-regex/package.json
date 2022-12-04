@@ -1,0 +1,15 @@
+{
+  "name": "aula01-vscode-terminal-regex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fabiano F. P. Stoffel <ffpthai@gmail.com> (https://github.com/FabianoFPS)",
+  "license": "ISC",
+  "dependencies": {
+    "ipt": "^3.2.0"
+  }
+}

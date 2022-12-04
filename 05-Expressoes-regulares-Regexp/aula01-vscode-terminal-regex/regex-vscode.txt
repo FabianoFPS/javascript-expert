@@ -1,0 +1,68 @@
+# \d{3} 3 digitos numéricos
+/^\d{3}.\d{3}.\d{3}-\d{2}$/
+123.123.123-14
+003.612.820-10
+378.983.278-34
+
+# [] representa ou . ou -
+[.-]
+retorna: 
+123.123.123-14
+003.612.820-10
+378.983.278-34
+
+# \w retorna as letras separadamente das palavras, sem caracteres especiais, é náo retorna
+\w
+fabiano,stoffel
+gomes,josé
+johonson,abrue
+
+#\w+ delimita a palavra inteira até que a sequemcia seja interompida 
+# + representa a repetição do padrão anterior até que ele cesse
+\w+
+fabiano,stoffel
+gomes,josé
+johonson,abrue
+
+#[\wÀ-ú]+ palavras com acento
+[\wÀ-ú]
+fabiano,stoffel
+gomes,josé
+johonson,abrue
+
+#\s considera espaço, \S desconsiderar espaço
+\w+,\s\w+
+fabiano, stoffel
+gomes, jose
+johonson, abrue
+
+# ^ começo da linha () grupo \w letras + repetições do padrão anterior $ final da linha
+^(\w+),\s(\w+)$
+stoffel, fabiano
+gomes, jose
+johonson, Jhon
+nome, compadrao diferente
+
+Find: ^(\w+),\s(\w+)$
+Replace: { firstName: '$2', lastName: '$1' }
+Result:
+{ firstName: 'fabiano', lastName: 'stoffel' }
+{ firstName: 'jose', lastName: 'gomes' }
+{ firstName: 'Jhon', lastName: 'johonson' }
+
+
+O [Fabiano Stoffel](https://fabiano.com) fas palestras e você devia seguilo no [twitter](http://twitter.cm/fabiano_) ou até no [instagram](https://instagram.com/fabiano)
+
+Ah e pode pesquisar no [Google](https://google.com) ou 
+[Yahoo](https://yahoo.com)
+
+vai que vai!
+Find: 
+Replace: \[(.*?)\]\(([http|https].*?)\)
+Result:
+O <a href="Fabiano Stoffel">https://fabiano.com</a> fas palestras e você devia seguilo no <a href="twitter">http://twitter.cm/fabiano_</a> ou até no <a href="instagram">https://instagram.com/fabiano</a>
+
+Ah e pode pesquisar no <a href="Google">https://google.com</a> ou 
+<a href="Yahoo">https://yahoo.com</a>
+
+vai que vai!
